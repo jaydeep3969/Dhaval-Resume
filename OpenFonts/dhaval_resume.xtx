@@ -1,0 +1,208 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% IMPORTANT: THIS TEMPLATE NEEDS TO BE COMPILED WITH XeLaTeX
+%
+% This template uses several fonts not included with Windows/Linux by
+% default. If you get compilation errors saying a font is missing, find the line
+% on which the font is used and either change it to a font included with your
+% operating system or comment the line out to use the default font.
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+% TODO:
+% 1. Integrate biber/bibtex for article citation under publications.
+% 2. Figure out a smoother way for the document to flow onto the next page.
+% 3. Add styling information for a "Projects/Hacks" section.
+% 4. Add location/address information
+% 5. Merge OpenFont and MacFonts as a single sty with options.
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+\documentclass[]{dhaval-resume-openfont}
+\usepackage{fancyhdr}
+
+\pagestyle{fancy}
+\fancyhf{}
+
+\rfoot{Page \thepage \hspace{1pt}}
+\begin{document}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+%     LAST UPDATED DATE
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\lastupdated
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+%     TITLE NAME
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\namesection{Dhaval}{Mehta}
+{ \href{mailto:dhaval.mehta197@gmail.com}{dhaval.mehta197@gmail.com} | (+91) 9173719850 }
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+%     COLUMN ONE
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\begin{minipage}[t]{0.3\textwidth}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     EDUCATION
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section{Education}
+
+\subsection{Dharmsinh Desai \newline University, Nadiad}
+\descript{BTech in Computer Engineering (Pursuing) }
+\location{ 2014 |  2018 (Expected)}
+\location{ CPI : 9.19 / 10.0 (Sem 1-6)}
+\sectionsep
+
+\subsection{P V Modi School, \newline Jamnagar}
+\location{Higher Secondary School}
+\location{Merit - 88.67 \% }
+\sectionsep
+
+\subsection{Shree Pranami High \newline School, Jamnagar}
+\location{Secondary School}
+\location{Merit - 91.20\%}
+\sectionsep
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     LINKS
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section{Links}
+
+Github:// \href{https://github.com/dhavalmehta1997}{\bf dhavalmehta1997} \\
+LinkedIn://  \href{https://in.linkedin.com/in/dhavalmehta1997}{\bf dhavalmehta1997} \\
+Quora://  \href{https://www.quora.com/profile/Dhaval-Mehta-51}{\bf Dhaval-Mehta-51} \\
+Codechef:// \href {https://www.codechef.com/users/dhavalmehta}{\bf dhavalmehta} \\
+Codeforces:// \href {http://codeforces.com/profile/dhavalmehta?locale=en}{\bf dhavalmehta} \\
+Hackerrank:// \href {https://www.hackerrank.com/dhaval_mehta}{\bf dhaval\textunderscore mehta} \\
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     COURSEWORK
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section{Coursework}
+\textbullet{} Data Structures and Algorithms \\
+\textbullet{} Database Systems \\
+\textbullet{} Service Oriented Architecture \\
+\textbullet{} Data Mining \\
+\textbullet{} Artificial Intelligence \\
+\textbullet{} Image Processing \\
+\textbullet{} Android Development \\
+\textbullet{} Software Engineering \\
+\textbullet{} Operating Systems \\
+
+\sectionsep
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     SKILLS
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section{Skills}
+
+\textbullet{} Data Structures and Algorithms \\
+\textbullet{} Object Oriented Programming \\
+\textbullet{} Core Java and Java EE \textbullet{} Rails\\
+\textbullet{} C/C++ \textbullet{} PHP \textbullet{}  C\# \textbullet{} ASP.NET\\
+\textbullet{} Oracle \textbullet{} MySQL \textbullet{} GitHub
+\sectionsep
+
+\section{Personal Details}
+\textbullet{} \textbf{Date of Birth:} 19/07/1997 \\
+\textbullet{} \textbf{Language known:} English, Hindi\\ \hspace{3mm} and Gujarati.\\
+\textbullet{} \textbf{Permanent address:} 3, Chitrakut\\ \hspace{3mm} Apartment; 2, Raghuvir Society; \\ \hspace{3mm} Near Janta Fatak; Jamnagar, \\ \hspace{3mm} Gujarat, India-361005.
+\sectionsep
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+%     COLUMN TWO
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\end{minipage}
+\hfill
+\begin{minipage}[t]{0.69\textwidth}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     EXPERIENCE
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section{Experience}
+\runsubsection{Shipmnts}
+\descript{| Full stack Engineer Intern}
+\location{May 2017 – July 2017 | Ahmedabad, India}
+\textbullet{} Mostly, worked as backend developer to develop microservices for  logistics and trade platform. \\
+\textbullet{} Worked on microservices of communication, product and shipping quote; which are the core modules of system.\\
+\textbullet{} Created a web-scraper which helps shipmnts to calculate quote. \\
+\sectionsep
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     Projects
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Projects}
+
+\runsubsection{URL to Google Drive}
+\descript{| Jun, 2017}
+\location{Technologies used: Java EE 7, Maven, Apache Http-Client }
+\textbf{Description:} This application takes URL from user; download file from url and upload that file to Google Drive. This project is very useful when we have large files to download and we don't have sufficient resources to download those files.\\
+\sectionsep
+
+
+\runsubsection{Crawler for competitive coding websites}
+\descript{| Jan, 2017}
+\location{Technologies used: Java EE 7, Hibernate, MySQL, Jsoup, JAX-RS, Tor, ASP.NET }
+\textbf{Description:} This project is aimed to gather coding problems from varoius sites and provide them on one platform. It is a 3-tier distributed web-application. It also provides \textbf{RestFul web api} to utilize gathered data.\\
+\sectionsep
+
+\runsubsection{Online Training and placement System}
+\descript{| Sep, 2016}
+\location{Technologies used: Java EE 7, Hibernate, MySQL, IText and Apache POI }
+\textbf{Description:} This project is aimed to provide an efficient and reliable placement system to college. This project was developed under CE department's placement officer Prof. Jatayu Baxi.\\
+\sectionsep
+
+\runsubsection{Online IDE}
+\descript{| May, 2016}
+\location{Technologies used: Java EE 7, Hibernate and MySQL}
+\textbf{Description:} A web-based Integrated Development Environment was developed, inspired from \href{http://ideone.com/}{\bf ideone}. The aim of the project is to provide an online compiler which allows you to compile the source code and execute it online in 4 programming languages. It also supports saving and sharing of source code.\\
+\sectionsep
+
+\runsubsection{Online bookstore}
+\descript{| Feb, 2016}
+\location{Technologies used: PHP 5.6 and MySQL }
+\textbf{Description:}  This project is a web-based bookstore management system. The aim of this project is, to make bookstore management more efficient, reliable and easier to handle. \\
+\sectionsep
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     AWARDS
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section{Achievements}
+\begin{tabular}{rll}
+Dec 2016        & In \textbf{ACM-ICPC 2016-17}, team ranked 45th in \textbf{Chennai onsite round} \\
+                & and \textbf{57th in Amritapuri onsite round.} \\
+Aug 2016        & In TCS Codevita Team Ranked \textbf{16th in Round – 1} and \textbf{36th in Round – 2.} \\
+July 2016       & Ranked \textbf{38th globally} and \textbf{5th in India} in Round 360(Div 2) on Codeforces. \\
+June 2016       & Team Ranked \textbf{195th globally} and \textbf{51st in India} in Codechef SnackDown’16 \\
+May 2016        & Ranked \textbf{261st globally} in Codechef May long challenge 2016. \\
+Mar 2016        & Won the \textbf{1st prize} in a Codejam in Felicific, technical  festival of our college. \\
+\end{tabular}
+\sectionsep
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     Co-Curricular Activities
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section{Co-Curricular Activities}
+\textbullet{} Part time competitive programmer on Codechef, Codeforces, HackerRank. \\
+\textbullet{} Currently, College representative at Dcoders – DDU Codechef Chapter. \\
+\textbullet{} Successfully completed e-Yantra Robotics competition hosted by IIT Bombay.
+\sectionsep
+
+\end{minipage}
+\end{document}  \documentclass[]{article}
