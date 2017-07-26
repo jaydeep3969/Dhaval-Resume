@@ -18,7 +18,7 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 
-\documentclass[]{dhaval-resume-openfont}
+\documentclass[]{dhaval-resume}
 \usepackage{fancyhdr}
 
 \pagestyle{fancy}
@@ -175,7 +175,7 @@ Hackerrank:// \href {https://www.hackerrank.com/dhaval_mehta}{\bf dhaval\textund
 \runsubsection{Online bookstore}
 \descript{| Feb, 2016}
 \location{Technologies used: PHP 5.6 and MySQL }
-\textbf{Description:}  This project is a web-based bookstore management system. The aim of this project is, to make bookstore management more efficient, reliable and easier to handle. \\
+\textbf{Description:}  It is a web-based bookstore management system. The aim of this project is, to make bookstore management more efficient and easier to handle. \\
 \sectionsep
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
