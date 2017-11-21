@@ -84,21 +84,17 @@ Quora://  \href{https://www.quora.com/profile/Dhaval-Mehta-51}{\bf Dhaval-Mehta-
 Codechef:// \href {https://www.codechef.com/users/dhavalmehta}{\bf dhavalmehta} \\
 Codeforces:// \href {http://codeforces.com/profile/dhavalmehta?locale=en}{\bf dhavalmehta} \\
 Hackerrank:// \href {https://www.hackerrank.com/dhaval_mehta}{\bf dhaval\textunderscore mehta} \\
+
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %     COURSEWORK
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \section{Coursework}
-\textbullet{} Data Structures and Algorithms \\
+\textbullet{} Data Structures \\
+\textbullet{} Algorithms \\
 \textbullet{} Database Systems \\
-\textbullet{} Service Oriented Architecture \\
-\textbullet{} Data Mining \\
-\textbullet{} Artificial Intelligence \\
-\textbullet{} Image Processing \\
-\textbullet{} Android Development \\
-\textbullet{} Software Engineering \\
 \textbullet{} Operating Systems \\
-
+\textbullet{} Basics of Service Oriented Architecture \\
 \sectionsep
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -109,9 +105,12 @@ Hackerrank:// \href {https://www.hackerrank.com/dhaval_mehta}{\bf dhaval\textund
 
 \textbullet{} Data Structures and Algorithms \\
 \textbullet{} Object Oriented Programming \\
-\textbullet{} Core Java and Java EE \textbullet{} Rails\\
-\textbullet{} C/C++ \textbullet{} PHP \textbullet{}  C\# \textbullet{} ASP.NET\\
-\textbullet{} Oracle \textbullet{} MySQL \textbullet{} GitHub
+\textbullet{} Core Java and Java EE \\
+\textbullet{} Spring boot \& MVC (Learning) \\
+\textbullet{} Hibernate\\
+\textbullet{} C/C++ \textbullet{} Rails \\
+\textbullet{} C\# \textbullet{} ASP.NET  \\ 
+\textbullet{} MySQL \textbullet{} Git \\
 \sectionsep
 
 \section{Personal Details}
@@ -138,8 +137,8 @@ Hackerrank:// \href {https://www.hackerrank.com/dhaval_mehta}{\bf dhaval\textund
 \descript{| Full stack Engineer Intern}
 \location{May 2017 – July 2017 | Ahmedabad, India}
 \textbullet{} Mostly, worked as backend developer to develop microservices for  logistics and trade platform. \\
-\textbullet{} Worked on microservices of communication, product and shipping quote; which are the core modules of system.\\
-\textbullet{} Created a web-scraper which helps shipmnts to calculate quote. \\
+\textbullet{} Worked on microservices of communication and product; which are the core services of system.\\
+\textbullet{} Created web-scrapers which helps shipmnts to calculate quote. \\
 \sectionsep
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -148,8 +147,10 @@ Hackerrank:// \href {https://www.hackerrank.com/dhaval_mehta}{\bf dhaval\textund
 \section{Projects}
 
 \runsubsection{URL to Google Drive}
-\descript{| Jun, 2017}
-\location{Technologies used: Java EE 7, Maven, Apache Http-Client }
+\descript{| Feb, 2017}
+\location{Deployed at: \href{https://savetogoogledrive.herokuapp.com}{\bf https://savetogoogledrive.herokuapp.com}}
+\location{Source Code: \href{https://github.com/dhavalmehta1997/url-to-google-drive}{\bf https://github.com/dhavalmehta1997/url-to-google-drive}}
+\location{Technologies used: Spring Boot, Maven, Swagger, Gson, Apache Http-Client, Apache commons io }
 \textbf{Description:} This application takes URL from user; download file from url and upload that file to Google Drive. This project is very useful when we have large files to download and we don't have sufficient resources to download those files.\\
 \sectionsep
 
@@ -170,12 +171,6 @@ Hackerrank:// \href {https://www.hackerrank.com/dhaval_mehta}{\bf dhaval\textund
 \descript{| May, 2016}
 \location{Technologies used: Java EE 7, Hibernate and MySQL}
 \textbf{Description:} A web-based Integrated Development Environment was developed, inspired from \href{http://ideone.com/}{\bf ideone}. The aim of the project is to provide an online compiler which allows you to compile the source code and execute it online in 4 programming languages. It also supports saving and sharing of source code.\\
-\sectionsep
-
-\runsubsection{Online bookstore}
-\descript{| Feb, 2016}
-\location{Technologies used: PHP 5.6 and MySQL }
-\textbf{Description:}  This project is a web-based bookstore management system. The aim of this project is, to make bookstore management more efficient, reliable and easier to handle. \\
 \sectionsep
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -199,6 +194,7 @@ Mar 2016        & Won the \textbf{1st prize} in a Codejam in Felicific, technica
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \section{Co-Curricular Activities}
+\textbullet{} Hosted a ACM-ICPC 2017-18 preparation contest on Hackerrank for juniors. \\
 \textbullet{} Part time competitive programmer on Codechef, Codeforces, HackerRank. \\
 \textbullet{} Currently, College representative at Dcoders – DDU Codechef Chapter. \\
 \textbullet{} Successfully completed e-Yantra Robotics competition hosted by IIT Bombay.
