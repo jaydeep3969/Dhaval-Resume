@@ -150,12 +150,12 @@ Hackerrank:// \href {https://www.hackerrank.com/dhaval_mehta}{\bf dhaval\textund
 \descript{| Feb, 2017}
 \location{Deployed at: \href{https://savetogoogledrive.herokuapp.com}{\bf https://savetogoogledrive.herokuapp.com}}
 \location{Source Code: \href{https://github.com/dhavalmehta1997/url-to-google-drive}{\bf https://github.com/dhavalmehta1997/url-to-google-drive}}
-\location{Technologies used: Spring Boot, Maven, Swagger, Gson, Apache Http-Client, Apache commons io }
+\location{Technologies used: Spring Boot, Maven, Swagger, Apache Http-Client, Apache commons io }
 \textbf{Description:} This application takes URL from user; download file from url and upload that file to Google Drive. This project is very useful when we have large files to download and we don't have sufficient resources to download those files.\\
 \sectionsep
 
 
-\runsubsection{Crawler for competitive coding websites}
+\runsubsection{Web Scrapper}
 \descript{| Jan, 2017}
 \location{Technologies used: Java EE 7, Hibernate, MySQL, Jsoup, JAX-RS, Tor, ASP.NET }
 \textbf{Description:} This project is aimed to gather coding problems from varoius sites and provide them on one platform. It is a 3-tier distributed web-application. It also provides \textbf{RestFul web api} to utilize gathered data.\\
@@ -179,8 +179,8 @@ Hackerrank:// \href {https://www.hackerrank.com/dhaval_mehta}{\bf dhaval\textund
 
 \section{Achievements}
 \begin{tabular}{rll}
-Dec 2016        & In \textbf{ACM-ICPC 2016-17}, team ranked 45th in \textbf{Chennai onsite round} \\
-                & and \textbf{57th in Amritapuri onsite round.} \\
+Dec 2016        & In \textbf{ACM-ICPC 2016-17}, team ranked \textbf{45th} in \textbf{Chennai onsite round} \\
+                & and \textbf{57th} in \textbf{Amritapuri onsite round.} \\
 Aug 2016        & In TCS Codevita Team Ranked \textbf{16th in Round – 1} and \textbf{36th in Round – 2.} \\
 July 2016       & Ranked \textbf{38th globally} and \textbf{5th in India} in Round 360(Div 2) on Codeforces. \\
 June 2016       & Team Ranked \textbf{195th globally} and \textbf{51st in India} in Codechef SnackDown’16 \\
