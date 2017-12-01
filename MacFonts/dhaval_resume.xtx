@@ -109,7 +109,6 @@ Hackerrank:// \href {https://www.hackerrank.com/dhaval_mehta}{\bf dhaval\textund
 \textbullet{} Spring boot \& MVC (Learning) \\
 \textbullet{} Hibernate\\
 \textbullet{} C/C++ \textbullet{} Rails \\
-\textbullet{} C\# \textbullet{} ASP.NET  \\ 
 \textbullet{} MySQL \textbullet{} Git \\
 \sectionsep
 
@@ -155,21 +154,21 @@ Hackerrank:// \href {https://www.hackerrank.com/dhaval_mehta}{\bf dhaval\textund
 \sectionsep
 
 
-\runsubsection{Web Scrapper}
+\runsubsection{Web Scraper}
 \descript{| Jan, 2017}
-\location{Technologies used: Java EE 7, Hibernate, MySQL, Jsoup, JAX-RS, Tor, ASP.NET }
+\location{Technologies used: Java EE, Hibernate, MySQL, Jsoup, JAX-RS, Tor, ASP.NET }
 \textbf{Description:} This project is aimed to gather coding problems from varoius sites and provide them on one platform. It is a 3-tier distributed web-application. It also provides \textbf{RestFul web api} to utilize gathered data.\\
 \sectionsep
 
 \runsubsection{Online Training and placement System}
 \descript{| Sep, 2016}
-\location{Technologies used: Java EE 7, Hibernate, MySQL, IText and Apache POI }
+\location{Technologies used: Java EE, Hibernate, MySQL, IText and Apache POI }
 \textbf{Description:} This project is aimed to provide an efficient and reliable placement system to college. This project was developed under CE department's placement officer Prof. Jatayu Baxi.\\
 \sectionsep
 
 \runsubsection{Online IDE}
 \descript{| May, 2016}
-\location{Technologies used: Java EE 7, Hibernate and MySQL}
+\location{Technologies used: Java EE, Hibernate and MySQL}
 \textbf{Description:} A web-based Integrated Development Environment was developed, inspired from \href{http://ideone.com/}{\bf ideone}. The aim of the project is to provide an online compiler which allows you to compile the source code and execute it online in 4 programming languages. It also supports saving and sharing of source code.\\
 \sectionsep
 
@@ -194,9 +193,9 @@ Mar 2016        & Won the \textbf{1st prize} in a Codejam in Felicific, technica
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \section{Co-Curricular Activities}
-\textbullet{} Hosted a ACM-ICPC 2017-18 preparation contest on Hackerrank for juniors. \\
-\textbullet{} Part time competitive programmer on Codechef, Codeforces, HackerRank. \\
+\textbullet{} Hosted a ACM-ICPC 2017-18 preparation contest for juniors. \\
 \textbullet{} Currently, College representative at Dcoders – DDU Codechef Chapter. \\
+\textbullet{} Part time competitive programmer on Codechef, Codeforces, HackerRank. \\
 \textbullet{} Successfully completed e-Yantra Robotics competition hosted by IIT Bombay.
 \sectionsep
 
