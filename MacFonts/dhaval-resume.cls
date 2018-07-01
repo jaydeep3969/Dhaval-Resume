@@ -15,7 +15,6 @@
 \usepackage{titlesec}
 \usepackage[absolute]{textpos}
 \usepackage[UKenglish]{babel}
-\usepackage[UKenglish]{isodate}
 \usepackage{fontspec,xltxtra,xunicode}
 
 % Cite publications
@@ -53,13 +52,13 @@ Last Updated on
 \newcommand{\namesection}[3]{
 	\centering{
 		\sffamily
-		\fontspec{Helvetica Neue UltraLight}\fontsize{40pt}{10cm}\selectfont #1 
+		\fontspec{Helvetica Neue UltraLight}\fontsize{38pt}{10cm}\selectfont #1 
 		\fontspec{Helvetica Neue Light}\selectfont #2
 	} \\
-	\vspace{5pt}
-	\centering{ \color{headings}\fontspec{Heiti TC Medium}\fontsize{11pt}{14pt}\selectfont #3}
+	\vspace{4pt}
+	\centering{ \color{headings}\fontspec{Heiti TC Medium}\fontsize{10pt}{14pt}\selectfont #3}
 	\noindent\makebox[\linewidth]{\rule{\paperwidth}{0.4pt}}
-	\vspace{-15pt}
+	\vspace{-18pt}
 }
 \titlespacing{\section}{0pt}{0pt}{0pt}
 

@@ -47,7 +47,7 @@
 %
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-\begin{minipage}[t]{0.3\textwidth}
+\begin{minipage}[t]{0.29\textwidth}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %     EDUCATION
@@ -56,9 +56,9 @@
 \section{Education}
 
 \subsection{Dharmsinh Desai \newline University, Nadiad}
-\descript{BTech in Computer Engineering (Pursuing) }
-\location{ 2014 |  2018 (Expected)}
-\location{ CPI : 9.19 / 10.0 (Sem 1-6)}
+\descript{B.Tech in Computer Engineering}
+\location{ 2014 |  2018}
+\location{ CPI : 8.86 / 10.0}
 \sectionsep
 
 \subsection{P V Modi School, \newline Jamnagar}
@@ -78,7 +78,7 @@
 
 \section{Links}
 
-Github:// \href{https://github.com/dhavalmehta1997}{\bf dhavalmehta1997} \\
+Github:// \href{https://github.com/dhaval-mehta}{\bf dhaval-mehta} \\
 LinkedIn://  \href{https://in.linkedin.com/in/dhavalmehta1997}{\bf dhavalmehta1997} \\
 Quora://  \href{https://www.quora.com/profile/Dhaval-Mehta-51}{\bf Dhaval-Mehta-51} \\
 Codechef:// \href {https://www.codechef.com/users/dhavalmehta}{\bf dhavalmehta} \\
@@ -106,16 +106,16 @@ Hackerrank:// \href {https://www.hackerrank.com/dhaval_mehta}{\bf dhaval\textund
 \textbullet{} Data Structures and Algorithms \\
 \textbullet{} Object Oriented Programming \\
 \textbullet{} Core Java and Java EE \\
-\textbullet{} Spring boot \& MVC (Learning) \\
-\textbullet{} Hibernate\\
+\textbullet{} Spring boot \& MVC \\
+\textbullet{} Hibernate \\
 \textbullet{} C/C++ \textbullet{} Rails \\
 \textbullet{} MySQL \textbullet{} Git \\
 \sectionsep
 
 \section{Personal Details}
 \textbullet{} \textbf{Date of Birth:} 19/07/1997 \\
-\textbullet{} \textbf{Language known:} English, Hindi\\ \hspace{3mm} and Gujarati.\\
-\textbullet{} \textbf{Permanent address:} 3, Chitrakut\\ \hspace{3mm} Apartment; 2, Raghuvir Society; \\ \hspace{3mm} Near Janta Fatak; Jamnagar, \\ \hspace{3mm} Gujarat, India-361005.
+\textbullet{} \textbf{Language known:} English, Hindi and Gujarati.\\
+\textbullet{} \textbf{Permanent address:} \\3, Chitrakut Apartment; \\2, Raghuvir Society;  \\Near Janta Fatak; Jamnagar, Gujarat, India-361005.
 \sectionsep
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %
@@ -125,7 +125,7 @@ Hackerrank:// \href {https://www.hackerrank.com/dhaval_mehta}{\bf dhaval\textund
 
 \end{minipage}
 \hfill
-\begin{minipage}[t]{0.69\textwidth}
+\begin{minipage}[t]{0.70\textwidth}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %     EXPERIENCE
@@ -134,10 +134,16 @@ Hackerrank:// \href {https://www.hackerrank.com/dhaval_mehta}{\bf dhaval\textund
 \section{Experience}
 \runsubsection{Shipmnts}
 \descript{| Full stack Engineer Intern}
-\location{May 2017 – July 2017 | Ahmedabad, India}
-\textbullet{} Mostly, worked as backend developer to develop microservices for  logistics and trade platform. \\
-\textbullet{} Worked on microservices of communication and product; which are the core services of system.\\
-\textbullet{} Created web-scrapers which helps shipmnts to calculate quote. \\
+\location{Dec 15, 2017 – Present | Ahmedabad, India}
+\textbullet{} Quotation is one of the key modules of the system. Worked as backend developer to redesigned entire quotation microservice.\\
+\textbullet{} Network microservice is the heart of the entire system. Redesigned and currently developing entire network microservice from scratch. \\
+\sectionsep
+
+\runsubsection{Shipmnts}
+\descript{| Full stack Engineer Summer Intern}
+\location{May 10, 2017 – July 15, 2017 | Ahmedabad, India}
+\textbullet{} Worked as backend developer with communication and product team to develop microservices. In production.\\
+\textbullet{} I also created webscraper in Java which helps shipmnts to calculate quotations. \\
 \sectionsep
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -146,30 +152,29 @@ Hackerrank:// \href {https://www.hackerrank.com/dhaval_mehta}{\bf dhaval\textund
 \section{Projects}
 
 \runsubsection{URL to Google Drive}
-\descript{| Feb, 2017}
-\location{Deployed at: \href{https://savetogoogledrive.herokuapp.com}{\bf https://savetogoogledrive.herokuapp.com}}
-\location{Source Code: \href{https://github.com/dhavalmehta1997/url-to-google-drive}{\bf https://github.com/dhavalmehta1997/url-to-google-drive}}
-\location{Technologies used: Spring Boot, Maven, Swagger, Apache Http-Client, Apache commons io }
+\descript{| Aug, 2017}
+\location{\href{https://savetogoogledrive.herokuapp.com}{\bf https://savetogoogledrive.herokuapp.com} | \href{https://github.com/dhaval-mehta/url-to-google-drive}{\bf https://github.com/dhaval-mehta/url-to-google-drive}}
+\location{Technologies used: Spring Boot, Maven, Swagger, Apache Http-Client }
 \textbf{Description:} This application takes URL from user; download file from url and upload that file to Google Drive. This project is very useful when we have large files to download and we don't have sufficient resources to download those files.\\
 \sectionsep
 
 
-\runsubsection{Web Scraper}
+\runsubsection{Web Scrapper}
 \descript{| Jan, 2017}
-\location{Technologies used: Java EE, Hibernate, MySQL, Jsoup, JAX-RS, Tor, ASP.NET }
+\location{Technologies used: Java EE, Hibernate, MySQL, Jsoup, JAX-RS, Tor}
 \textbf{Description:} This project is aimed to gather coding problems from varoius sites and provide them on one platform. It is a 3-tier distributed web-application. It also provides \textbf{RestFul web api} to utilize gathered data.\\
 \sectionsep
 
 \runsubsection{Online Training and placement System}
 \descript{| Sep, 2016}
-\location{Technologies used: Java EE, Hibernate, MySQL, IText and Apache POI }
-\textbf{Description:} This project is aimed to provide an efficient and reliable placement system to college. This project was developed under CE department's placement officer Prof. Jatayu Baxi.\\
+\location{Technologies used: Java EE, Hibernate, MySQL, IText, Apache POI }
+\textbf{Description:} This project is aimed to create an efficient and reliable placement system. This project was developed under CE department's placement officer Prof. Jatayu Baxi.\\
 \sectionsep
 
 \runsubsection{Online IDE}
 \descript{| May, 2016}
 \location{Technologies used: Java EE, Hibernate and MySQL}
-\textbf{Description:} A web-based Integrated Development Environment was developed, inspired from \href{http://ideone.com/}{\bf ideone}. The aim of the project is to provide an online compiler which allows you to compile the source code and execute it online in 4 programming languages. It also supports saving and sharing of source code.\\
+\textbf{Description:} A web-based Integrated Development Environment was developed, inspired from \href{http://ideone.com/}{\bf ideone}. The aim of the project is to provide an online ide which allows you to compile the source code and execute it online in 4 programming languages.
 \sectionsep
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -193,9 +198,8 @@ Mar 2016        & Won the \textbf{1st prize} in a Codejam in Felicific, technica
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \section{Co-Curricular Activities}
-\textbullet{} Hosted a ACM-ICPC 2017-18 preparation contest for juniors. \\
-\textbullet{} Currently, College representative at Dcoders – DDU Codechef Chapter. \\
-\textbullet{} Part time competitive programmer on Codechef, Codeforces, HackerRank. \\
+\textbullet{} Hosted a ACM-ICPC 2017-18 preparation contest on Hackerrank for juniors. \\
+\textbullet{} Former college representative at Dcoders – DDU Codechef Chapter. \\
 \textbullet{} Successfully completed e-Yantra Robotics competition hosted by IIT Bombay.
 \sectionsep
 
